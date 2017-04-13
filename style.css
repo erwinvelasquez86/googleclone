@@ -1,0 +1,21 @@
+.header_content{
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#menu {
+    height: 20px;
+    width:  20px;
+    background-color: gray;
+    margin-top: 15px;
+}
+
+#sign_in_button {
+    color: white;
+    background: blue;
+    height: 25px;
+    border-style: none;
+    border-radius: 5px;
+    margin-top: 13px;
+}
